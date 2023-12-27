@@ -1,0 +1,1 @@
+INSERT INTO occurrence (amount_of_contact_received, occurrence_date_time) VALUES(10, '2023-12-10T12:30:00');
